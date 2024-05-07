@@ -1,0 +1,444 @@
+@media only screen and (max-width: 992px) {
+
+    /* for tablets */
+    /* navbar */
+    .logo-img {
+        min-width: 150px;
+    }
+
+    .navlist {
+        display: none;
+    }
+
+    .nav-button {
+        display: none;
+    }
+
+    .menu-button {
+        width: 120px;
+        padding: 10px 30px;
+        font-size: 34px;
+        font-weight: 500;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu {
+        display: flex;
+        height: 25px;
+    }
+
+    /* background-1 */
+    .background-1-text {
+        max-width: 500px;
+    }
+
+    .background-1-text {
+        max-width: 50%;
+    }
+
+    .form-input {
+        height: 32px;
+    }
+
+    /* cards */
+    .cards-header-heading {
+        font-size: 44px;
+        font-weight: 500;
+        padding: 10px 0px;
+    }
+
+    .card-1-4 {
+        height: 500px;
+        width: 40%;
+    }
+
+    .card-1-4 {
+        padding: 30px;
+        margin-top: 120px;
+        height: auto;
+    }
+
+    .card-row {
+        margin-top: 0px;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    /* works-imgs-div */
+    .works-images {
+        width: 40%;
+    }
+
+    .works-images-div {
+        justify-content: center;
+    }
+
+    /* blogs */
+    .text-start-2 {
+        max-height: 500px;
+    }
+
+    .card-text-1 {
+        height: 283px;
+        overflow: hidden;
+    }
+
+    .card-title-1 {
+        font-size: 20px;
+    }
+
+    /* last-form-div */
+    .last-form-div {
+        flex-direction: column;
+        height: auto;
+        padding: 40px 0px;
+    }
+
+    /* footer */
+    .footer-section-1 {
+        max-width: 200px;
+    }
+}
+
+
+/* for mobiles */
+
+@media only screen and (max-width: 768px) {
+
+    /* font-sizes */
+    .background-1-text-header {
+        font-size: 32px;
+        line-height: 46px;
+        margin-bottom: 10px;
+    }
+
+    .cards-header-heading {
+        font-size: 32px;
+    }
+
+    .background-2-title {
+        font-size: 32px;
+        line-height: 46px;
+    }
+
+    .size-mos-tree {
+        font-size: 32px;
+    }
+
+    .tree-para {
+        font-size: 16px;
+        margin: 20px 0px;
+    }
+
+    .rectangle {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    .client-header {
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 46px;
+    }
+
+    .works-header {
+        font-size: 32px;
+        line-height: 46px;
+    }
+
+    .last-heading {
+        font-size: 32px;
+        line-height: 46px;
+    }
+
+    /* background-1 */
+
+    .text-form {
+        flex-direction: column;
+    }
+
+    .form {
+        max-width: 320px;
+        margin-top: 20px;
+    }
+
+    .background-1-text {
+        max-width: 689.57px;
+    }
+
+    .card-1-4 {
+        width: 34%;
+        height: 500px;
+    }
+
+    .background-2-inner-div {
+        min-height: 320px;
+        height: auto;
+        padding-bottom: 20px;
+    }
+
+    .background-2 {
+        height: auto;
+    }
+
+    .mosquito {
+        flex-direction: column;
+    }
+
+    .tree {
+        flex-direction: column;
+    }
+
+    .works-images {
+        width: 42%;
+        height: 280px;
+    }
+
+    .works-text-border {
+        border-left: 2px solid #1AB400;
+        font-size: 16px;
+    }
+
+    .last-form-div-1 {
+        max-width: 100%;
+    }
+}
+
+
+@media screen and (max-width:666px) {
+
+    .footer {
+        min-height: 412px;
+        height: auto;
+        flex-wrap: wrap;
+        max-width: 100%;
+        width: auto;
+        padding: 90px;
+    }
+
+    .footer-section-logo {
+        margin-left: 70px;
+    }
+
+    .links1 {
+        list-style-type: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 70px;
+        margin-bottom: 20px;
+    }
+
+    .footer-section-1 {
+        margin-left: -20px;
+        margin-bottom: 20px;
+    }
+
+    .footer-font {
+        margin-bottom: 20px;
+    }
+
+    .footer-terms {
+        flex-direction: column;
+        min-height: 80px;
+    }
+
+    .client-cards {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        flex-wrap: wrap;
+
+    }
+
+    .works-images {
+        width: 70%;
+    }
+
+    .text-start-2 {
+        max-height: 200px;
+        width: 70%;
+    }
+
+    .blog-row {
+        flex-direction: column;
+    }
+
+    #rectangle-14 {
+        height: 300px;
+        width: 100%;
+    }
+
+    .blog-row-col-2 {
+        display: flex;
+        width: auto;
+        max-width: 97%;
+    }
+
+    .form1 {
+        max-width: 270px;
+        width: auto;
+        margin-top: 20px;
+        margin: 0px;
+    }
+
+    .form {
+        width: auto;
+        margin-top: 20px;
+    }
+
+    #rectangle-15 {
+        width: 50%;
+        height: 230px;
+    }
+
+    #rectangle-16 {
+        width: 50%;
+        height: 230px;
+    }
+
+    .input1 {
+        max-width: 393.48px;
+        width: auto;
+        padding-left: 10px;
+        height: 48px;
+        border-radius: 4px;
+        background-color: transparent;
+        border: none;
+        border-bottom: 2px solid white;
+        font-size: 16px;
+        margin-bottom: 5px;
+        color: white;
+    }
+}
+
+
+@media screen and (max-width: 560px) {
+
+    .card-1-4 {
+        height: auto;
+        width: 70%;
+    }
+
+    .card-1-4 {
+        padding: 30px;
+        margin-top: 120px;
+        height: auto;
+        margin-left: 25px;
+    }
+
+    .background-2-button-2 {
+        margin: 0px;
+        margin-top: 20px;
+    }
+
+    .mosquito-tree {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .mosquito {
+        border-right: none;
+        max-width: 100%;
+    }
+
+    .tree {
+        max-width: 100%;
+    }
+
+    .tree-para {
+        font-size: 16px;
+        margin: 20px 0px;
+        max-width: 100%;
+    }
+
+    .mosquito-img {
+        margin-left: 20px;
+    }
+
+    .rectangle {
+        font-size: 10px;
+        font-weight: 500;
+    }
+
+    .reactangle-text-person {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width:457px) {
+
+    .card-1-4 {
+        margin-left: 0px;
+    }
+
+    .background-2-title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .background-2-para {
+        font-size: 10px;
+        line-height: 18px;
+        letter-spacing: 0px;
+        margin: 15px 0px;
+    }
+
+    .menu-button {
+        width: 120px;
+        padding: 10px 30px;
+        font-size: 19px;
+        font-weight: 400;
+        color: #1C790C;
+    }
+
+    .menu {
+        display: flex;
+        height: 25px;
+    }
+
+
+    .blog-heading {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+
+    .recent-offers-head {
+        font-size: 28px;
+    }
+
+    .size-mos-tree {
+        font-size: 26px;
+    }
+
+    .footer-section-logo {
+        margin-left: 0px;
+    }
+
+    .links1 {
+        margin-left: 0px;
+    }
+
+    .works-images {
+        width: 90%;
+    }
+
+    .text-start-2 {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:364px) {
+
+    .menu-button {
+        width: 500px;
+        font-size: 18px;
+        font-weight: 500;
+        justify-content: center;
+    }
+
+}
